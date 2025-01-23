@@ -1,5 +1,4 @@
 # Scrybin
-A customizable, minimalist note-taking app.
 
 ## About
 Scrybin is a minimalist note-taking application with customizable themes, a zen mode for focus, and basic editing tools to help organize your thoughts and tasks with simplicity and ease.
