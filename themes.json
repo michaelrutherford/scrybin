@@ -1,0 +1,46 @@
+{
+    "Dark": {
+        "bg_color": "#2e2e2e",
+        "fg_color": "#ffffff"
+    },
+    "Light": {
+        "bg_color": "#ffffff",
+        "fg_color": "#000000"
+    },
+    "Paper": {
+        "bg_color": "#fdf6e3",
+        "fg_color": "#121212"
+    },
+    "Midnight": {
+        "bg_color": "#1e1e2e",
+        "fg_color": "#a8dadc"
+    },
+    "Forest": {
+        "bg_color": "#2b4f3f",
+        "fg_color": "#e8f5e9"
+    },
+    "Ocean": {
+        "bg_color": "#013a63",
+        "fg_color": "#cce7ff"
+    },
+    "Coffee": {
+        "bg_color": "#4b3621",
+        "fg_color": "#f3e5ab"
+    },
+    "Slate": {
+        "bg_color": "#708090",
+        "fg_color": "#ffffff"
+    },
+    "Blush": {
+        "bg_color": "#ffe4e1",
+        "fg_color": "#6b4226"
+    },
+    "Mint": {
+        "bg_color": "#e8f5e9",
+        "fg_color": "#2e7d32"
+    },
+    "Steel": {
+        "bg_color": "#43464b",
+        "fg_color": "#d3d3d3"
+    }
+}
